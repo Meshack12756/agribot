@@ -1,2 +1,2 @@
 # agribot
-Farming chatbot.
+AI Farming chatbot.
