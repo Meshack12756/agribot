@@ -1,0 +1,8 @@
+haystack-ai
+sentence-transformers
+transformers
+torch
+joblib
+uvicorn
+fastapi
+streamlit
